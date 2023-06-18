@@ -1,4 +1,4 @@
-# README
+
 
 This repository contains code for a machine learning project focused on loan prediction. The goal of the project is to build a model that can predict whether a loan application will be approved or not.
 
@@ -12,7 +12,7 @@ Make sure you have the following libraries installed:
 - Matplotlib (imported as plt)
 - XGBoost (imported as xgb)
 
-```
+
 
 ## Data
 
