@@ -1,6 +1,6 @@
 
 
-This repository contains code for a machine learning project focused on loan prediction. The goal of the project is to build a model that can predict whether a loan application will be approved or not.
+This repository contains code for a machine learning project focused on loan prediction. The goal of the project is to build a model that can predict whether a loan application will be approved or not based on some inputs
 
 ## Prerequisites
 
