@@ -48,7 +48,7 @@ The best parameters found by RandomizedSearchCV are printed, and the model is ev
 
 ### Decision Tree
 
-A Decision Tree classifier is trained using GridSearchCV to find the best hyperparameters. The parameter grid consists of 'max_depth', 'min_samples_leaf', 'min_samples_split', and 'criterion' parameters.
+The Decision Tree classifier is trained using GridSearchCV to find the best hyperparameters. The parameter grid consists of 'max_depth', 'min_samples_leaf', 'min_samples_split', and 'criterion' parameters.
 
 The best parameters found by GridSearchCV are printed, and the model is evaluated on the testing set by calculating the accuracy.
 
