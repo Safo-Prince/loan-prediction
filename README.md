@@ -64,6 +64,6 @@ The code includes a function named 'feature_imp()' that calculates and plots the
 
 ## Note
 
-Please ensure that you have the 'train_csv.csv' file in the same directory as the code files before running the code.
+Please ensure that you have the 'train_csv.csv' file in the same directory as the code files before running the code
 
 Feel free to modify the code and experiment with different models and hyperparameters to improve the performance of the loan prediction model.
